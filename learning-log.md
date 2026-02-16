@@ -45,3 +45,19 @@ SQL literacy increases independence and leverage.
 Backend awareness differentiates systems consultants from basic web designers.
 
 Infrastructure knowledge compounds into SaaS capability long term.
+
+
+**February 18, 2026
+ROI & Financial Modeling**
+
+Break-even revenue increase = Fee ÷ Gross Margin.
+
+ROI multiple = Gross Profit Increase ÷ Consultant Cost.
+
+Margin determines how much revenue increase is required.
+
+Low-margin businesses require larger revenue impact.
+
+Pricing confidence comes from quantifiable ROI.
+
+Sensitivity analysis helps manage uncertainty in projections.
