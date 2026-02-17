@@ -56,6 +56,22 @@ ROI multiple = Gross Profit Increase ÷ Consultant Cost.
 
 Margin determines how much revenue increase is required.
 
+**February 20, 2026
+SQL Foundations**
+
+SQL allows direct querying of structured data.
+
+SELECT retrieves specific columns or all columns.
+
+WHERE filters rows based on conditions.
+
+AND allows multiple filtering criteria.
+
+SQL reads logically: SELECT → FROM → WHERE.
+
+Data segmentation is the foundation of reporting and analytics.
+
+Querying raw data increases consulting leverage.
 Low-margin businesses require larger revenue impact.
 
 Pricing confidence comes from quantifiable ROI.
